@@ -22,6 +22,10 @@ After that do:\
 
 <img width="1511" alt="Снимок экрана 2022-06-07 в 4 14 28 AM" src="https://user-images.githubusercontent.com/52038455/172281845-ed69078e-abe9-486d-98b9-8f3bce409955.png">
 
+**🦋 After sumbitting the form**
+<img width="1512" alt="Снимок экрана 2022-06-10 в 3 32 52 AM" src="https://user-images.githubusercontent.com/52038455/172972471-2b4f26a8-e857-4dbe-861c-00fd9160a619.png">
+
+
 # 🚀 This website is developed for my personal usage (bots development company). It is fully adaptive but currently doesn't include back-end, I will this part in later commits!
 
 
