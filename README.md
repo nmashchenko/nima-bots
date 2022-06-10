@@ -1,11 +1,11 @@
-# 🚀 To run the app do:
+# 🚀 To run the app do:\
 
-Windows: SET PORT=8000
-Mac/Linux: export PORT=8000
+Windows: **SET PORT=8000**\
+Mac/Linux: **export PORT=8000**\
 
-After that do:
-cd server
-npm run dev
+After that do:\
+**cd server**\
+**npm run dev**\
 
 # 🚀 Paging
 <img width="1511" alt="Снимок экрана 2022-06-07 в 4 12 56 AM" src="https://user-images.githubusercontent.com/52038455/172281756-3be63a82-613f-40a9-9401-230eaf6dadce.png">
