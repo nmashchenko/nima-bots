@@ -1,4 +1,4 @@
-# 🚀 To run the app do:\
+# 🚀 To run the app do:
 
 Windows: **SET PORT=8000**\
 Mac/Linux: **export PORT=8000**
@@ -26,7 +26,7 @@ After that do:\
 <img width="1512" alt="Снимок экрана 2022-06-10 в 3 32 52 AM" src="https://user-images.githubusercontent.com/52038455/172972471-2b4f26a8-e857-4dbe-861c-00fd9160a619.png">
 
 
-# 🚀 This website is developed for my personal usage (bots development company). It is fully adaptive but currently doesn't include back-end, I will this part in later commits!
+# 🚀 This website is developed for my personal usage (bots development company). It is fully adaptive and have working back-end!
 
 
 # Getting Started with Create React App
